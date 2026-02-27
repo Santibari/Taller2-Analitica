@@ -3,7 +3,7 @@
 # Integrantes del Grupo
 
 - Brayan Presiga Sepulveda
-- Sofia Daza Garcia
+- Sofia Arbelaez Mejia
 - Julian Andres Pedraza Padilla
 - Santiago Prieto
 - Santiago Bazzani Rincon
